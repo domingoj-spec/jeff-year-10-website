@@ -1,7 +1,27 @@
 img{
     width: 500px;
+    border-style: dotted;
+    border-width: ;
+    
+    
 }
 
 .Wellington {
     width: 1000px;
+}
+
+h2{
+    color: rgb(158, 253, 6);
+    text-align:center;
+    text-decoration:underline;
+    
+    
+}
+body{
+    background-color: blueviolet;
+    border-style: dotted;
+}
+.centeritem{
+    display: flex;
+    justify-content:center;
 }
